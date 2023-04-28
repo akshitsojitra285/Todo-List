@@ -70,4 +70,32 @@ ul li:nth-child(odd){
     cursor: pointer;
     color: red;
 }
-
+@media screen and (max-width:480px) {
+    body{
+        width: 100%;
+        min-height: 100%;
+    }
+    .contain{
+        margin-top: 200px;
+        padding: 10px;
+        width: 300px;
+    }
+    h2{
+        padding: 10px;
+        width: 30vh;
+        height: 10vh;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    p{
+        margin: 20px 0px;
+    }
+    #text{
+        padding: 10px;
+        width: 200px;
+    }
+    button{
+        padding: 10px;
+        margin-right: 1pc;
+    }
+}
