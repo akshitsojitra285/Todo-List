@@ -78,14 +78,13 @@ ul li:nth-child(odd){
     .contain{
         margin-top: 200px;
         padding: 10px;
-        width: 300px;
+        width: 330px;
     }
     h2{
         padding: 10px;
         width: 30vh;
         height: 10vh;
-        margin-left: 50px;
-        margin-top: 10px;
+        margin: 20px 40px;
     }
     p{
         margin: 20px 0px;
